@@ -19,7 +19,6 @@
 - Modern Operating Systems
 - APUE
 - Head First Design Patterns
-
 - Real-Time Rendering
 - CLRS
 
